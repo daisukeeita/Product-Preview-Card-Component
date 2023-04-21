@@ -143,13 +143,16 @@ button {
     cursor:           pointer;
     color:            var(--font-color-onPrimary-0);
     font-size:        var(--font-size-300);
-    font-weight:      var(--font-weight-medium);
     background-color: var(--primary-color-400);
     transition:       all 200ms linear;
 }
 
 .btn:hover {
     background-color: var(--primary-color-700);
+}
+
+.btn__name {
+    font-weight: var(--font-weight-bold);
 }
 
 .fa-cart-shopping {
