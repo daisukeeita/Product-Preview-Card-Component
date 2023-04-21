@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/product-preview-card-component__desktop.png)
-![](/images/product-preview-card-component__mobile.png)
+![](images/product-preview-card-component__desktop.png)
+![](images/product-preview-card-component__mobile.png)
 
 ### Links
 
